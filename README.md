@@ -6,7 +6,7 @@ Converting Joomla to a true taxonomic system seems to be an unsourmontable task,
 
 With the advent of custom fields, and the ability to "plug" them to com_content, Joomla has reached a point where a taxonomic system is right around the corner. By refactoring com_content to use com_fields as its foundation for *all fields*, and creating a few backward compatibility workarounds, Joomla can accomplish the implementation of a taxonomic system for J4.0 *at launch*.
 
-This project was initially concocted in Adobe XD, with both the source file and published prototype provided below. If you miss some interactions, just consider that the prototype is under active development/creation, and use the screen navigator to go through screens. Comments are welcome, and should be opened as issues under this repository.
+This project was initially concocted in Adobe XD, and the published prototype link is provided below. If you miss some interactions, just consider that the prototype is under active development/creation, and use the screen navigator to go through screens. Comments are welcome, and should be opened as issues under this repository (I will not check comments to the prototype at this phase).
 
 The next phase will be to convert this into an HTML5 prototype, where contributors can add their ideas or fork into a similar proposal.
 
