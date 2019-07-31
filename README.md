@@ -10,7 +10,7 @@ This project was initially concocted in Adobe XD, and the published prototype li
 
 The next phase will be to convert this into an HTML5 prototype, where contributors can add their ideas or fork into a similar proposal.
 
-Adobe XD prototype for review: https://xd.adobe.com/view/ff251668-87f6-4b78-59c4-745d27c1dfe9-8914/ 
+Adobe XD prototype for review: https://xd.adobe.com/view/96ddb5af-e626-47f0-50d6-20e1aa067ea6-e0ec/
 
 If you would like to have access to the original XD file, please send me a personal message on GitHub, and I will provide a copy. If you want to collaborate, and edit the same cloud file, please PM me with your adobe ID email, and I will share it with you with editing permissions.
 
